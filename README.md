@@ -64,3 +64,4 @@ Apart from SWIFT DDS, greenstone also provides SWIFT DDS-RT, which is specifical
 
 For the full version of SWIFT DDS/SWIFT DDS-RT, or any commercial cooperating inquiries, please contact bd@greenstonesoft.com.
 
+37595149720edd7bf4c11760084cad7753c2f289
